@@ -14,7 +14,7 @@ Welcome to the Geosynchronous Satellite Trajectories project! This Python projec
 
 The rest of the project directory may contain various experimental codes and files that were developed during the research and development process. These experimental codes may include failed attempts, alternative approaches, or exploratory analyses. While these codes may not be part of the final project implementation, they may provide valuable insights into the project's evolution.
 
-Please note that the codes in this project may not be perfect, and some results might be questionable or incorrect. However, this project is a part of my ongoing learning journey, and I am committed to improving and refining both the code and its results as I continue to learn and grow.
+Please note that the codes in this project may not be perfect, and some results might be questionable or incorrect. However, this project is a part of my ongoing learning journey, and I am committed to improving and refining the code and its results as I continue to learn and grow.
 
 ## Getting Started
 
@@ -33,12 +33,8 @@ To get started with this project, follow these steps:
 
 ## Results
 
-After running the project, you should obtain results and visualizations that provide insights into the behavior of geosynchronous satellite trajectories under perturbed gravitational potentials.
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+After running the project, you should obtain results and visualizations that provide insights into the behaviour of geosynchronous satellite trajectories under perturbed gravitational potentials.
 
 ## Acknowledgments
 
-I would like to express our gratitude to my supervisor Prof. Thomas Bridges for their support and contributions to this project.
+I want to thank my supervisor Prof. Thomas Bridges, Department of Mathematics, University of Surrey, for their support and contributions to this project.
